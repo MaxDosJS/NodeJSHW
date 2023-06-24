@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Camry",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "rx6800",
+    "price": 10
+  },
+  {
+    "id": 3,
+    "name": "Rtx3080",
+    "price": 20
+  }
+]
